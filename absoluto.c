@@ -1,10 +1,5 @@
-/* PRE Y POSTCONDICION :
-      {TRUE}
-       ....
-      {r = abs x} */
-
 #include <stdio.h>
-#include <math.h> /*NOTA: necesario para la segunda forma*/
+#include <math.h> 
 
 int main () {
 
@@ -27,7 +22,7 @@ int main () {
 
 }
 
-/* OTRA FORMA : 
+/* Another way: 
 
     int main (void) {
     int x;
